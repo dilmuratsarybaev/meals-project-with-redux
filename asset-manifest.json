@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meals-project-with-redux/static/css/main.971ec77e.css",
+    "main.js": "/meals-project-with-redux/static/js/main.acdc6cd1.js",
+    "static/media/pexels-alexy-almond-3756523 1.jpg": "/meals-project-with-redux/static/media/pexels-alexy-almond-3756523 1.12a2d3a26186a7ffd2b5.jpg",
+    "static/media/Vector.svg": "/meals-project-with-redux/static/media/Vector.569f7d6b6e9520fb1d1b3c77ebb21b5e.svg",
+    "index.html": "/meals-project-with-redux/index.html",
+    "static/media/Vector3.svg": "/meals-project-with-redux/static/media/Vector3.f6449d6005345c09378ddf02e862b973.svg",
+    "main.971ec77e.css.map": "/meals-project-with-redux/static/css/main.971ec77e.css.map",
+    "main.acdc6cd1.js.map": "/meals-project-with-redux/static/js/main.acdc6cd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.971ec77e.css",
+    "static/js/main.acdc6cd1.js"
+  ]
+}
